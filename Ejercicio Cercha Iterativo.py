@@ -148,3 +148,5 @@ plt.ylabel('Fuerza')
 
 
 
+
+
