@@ -1,4 +1,3 @@
-
 # Importamos dependencias
 import numpy as np
 import matplotlib.pyplot as plt
@@ -95,52 +94,3 @@ plt.plot(Desplazamiento*-10,B2_force[0,:]/1000,color='r',marker='o')
 plt.grid(True)
 plt.xlabel('Desplazamiento')
 plt.ylabel('Fuerza')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
